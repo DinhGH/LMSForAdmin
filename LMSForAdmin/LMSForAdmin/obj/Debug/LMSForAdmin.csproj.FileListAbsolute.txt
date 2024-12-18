@@ -1,0 +1,583 @@
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+X:\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+D:\RE_Project 1\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+X:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+X:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_Quanlykho.resources
+D:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\QRCoder.dll
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlidoanhthu.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlimadatphong.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlydanhgia.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlygiaphong.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlysodophong.resources
+D:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_CancellationRoom.resources
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\QRCoder.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+E:\OK\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_CancellationRoom.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlidoanhthu.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlimadatphong.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlydanhgia.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlygiaphong.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_Quanlykho.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlysodophong.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+E:\OK\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\QRCoder.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_CancellationRoom.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlidoanhthu.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlimadatphong.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlydanhgia.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlygiaphong.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_Quanlykho.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlysodophong.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
+X:\bietchua\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\QRCoder.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.dll
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Data.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.AssemblyReference.cache
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_CancellationRoom.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dangnhap.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dscheck_out.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dschecked_in.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsdatphong.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_dsycdv.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_inhoadon.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_kiemtramdp.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nhaphang.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLAccount.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSKHang.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLHSNvien.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_QLRooms.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlidoanhthu.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlimadatphong.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlydanhgia.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlygiaphong.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_Quanlykho.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlysodophong.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Properties.Resources.resources
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.GenerateResource.cache
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe.licenses
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.csproj.CoreCompileInputs.cache
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAd.E0205D39.Up2Date
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.exe
+D:\LMSForAdmin\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.pdb
